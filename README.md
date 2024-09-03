@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/48fd99bf-b375-4d88-8c56-0a5bae026539" width="400" height="200"/>
+    <img src="https://github.com/user-attachments/assets/a7fdd515-9259-470a-840d-04db2c005761" />
 </div>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
