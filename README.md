@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="![네온검정](https://github.com/user-attachments/assets/cfb8dcfb-a7c2-4847-9177-6e1c9cde84d9)" />
+  <img src="https://github.com/user-attachments/assets/48fd99bf-b375-4d88-8c56-0a5bae026539" />
 </div>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
