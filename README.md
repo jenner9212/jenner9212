@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **jenner9212/jenner9212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="![네온검정](https://github.com/user-attachments/assets/cfb8dcfb-a7c2-4847-9177-6e1c9cde84d9)" />
+</div>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">🤜Contribution🤛</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">🌐 Platforms</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white" />&nbsp
+</div>
