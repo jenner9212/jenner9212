@@ -40,3 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white" />&nbsp
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jenner9212?pet-id=640104225804923270" width="1000" height="250"/>
+</a>
